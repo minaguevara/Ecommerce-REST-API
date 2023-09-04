@@ -46,7 +46,7 @@ This project is an e-commerce application REST API built using Express, Node.js,
 The API will be running on port 3000. You can test it using a REST client such as Postman.
 
 ## Usage
-The API is documented using Swagger. You can view the documentation at ---.
+The API is documented using Swagger. You can find the documentation in this repository as `openapi.json`.
 
 ## Contributing
 Contributions are welcome! Please open a pull request if you have any improvements to make.
