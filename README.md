@@ -29,15 +29,17 @@ This project is an e-commerce application REST API built using Express, Node.js,
 1. Clone the repository to your local machine.
 2. Install the dependencies:
 
-   ``npm install```
+   ``
+   npm install
+   ``
 
-3. Create a `.env` file and add the following environment variables:
+4. Create a `.env` file and add the following environment variables:
 
-    ``PORT=3000
-    DATABASE_URL=postgres://localhost:5432/ecommerce``
+    ``PORT=3000``
+    <br>``DATABASE_URL=postgres://localhost:5432/ecommerce``
 
 
-4. Start the API:
+5. Start the API:
 
     ``npm start``
 
